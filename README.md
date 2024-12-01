@@ -6,7 +6,7 @@ Il n'y a aucun cpp dans le projet. J'ai eu d'horribles problèmes avec Visual St
 ## Contenu du projet
 
 Jeu de collecte d'objet chronométré.
-Vous devez récupérer le plus de spheres avant la fin du temps imparti. Suivant la couleur elle rapportent plus ou moins de points :
+Vous devez récupérer le plus de spheres avant la fin du temps imparti. Suivant la couleur elles rapportent plus ou moins de points :
 Vert = 1
 Jaune = 2
 Orange = 3
